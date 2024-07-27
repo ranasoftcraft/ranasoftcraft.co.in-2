@@ -1,0 +1,23 @@
+{
+  "name": "ranasoftcraft.co.in",
+  "version": "0.0.1",
+  "description": "ranasoftcraft.co.in website pages",
+  "main": "index.html",
+  "scripts": {
+    "start":"http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranasoftcraft/ranasoftcraft.co.in-2.com"
+  },
+  "author": "sandeep.rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranasoftcraft/ranasoftcraft.co.in-2.com/issues"
+  },
+  "homepage": "https://github.com/ranasoftcraft/ranasoftcraft.co.in-2.com#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
